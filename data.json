@@ -28,47 +28,47 @@
 			"image_file2" :	"",
 			"lat" :	"35.3732035",
 			"lng" : "139.4184921",
-			"detail" : "説明(テスト用)<br />説明(テスト用)<br />説明(テスト用)"
+			"detail" : ""
 		},
-		{ "title" : "市役所",
+		{ "title" : "神奈川区役所",
 			"image_file" : "Shiyaku",
-			"abstract" : "市役所（説明[短]）",
+			"abstract" : "ここで転入届やマイナンバーカードの更新ができます",
 			"score" : 4.0,
 			"image_file1" : "Shiyaku",
 			"image_file2" :	"",
 			"lat" :	"35.3732035",
 			"lng" : "139.4184921",
-			"detail" : "説明(テスト用)<br />説明(テスト用)<br />説明(テスト用)"
+			"detail" : "電話番号：045-411-7171<br/>住所 ：221-0824神奈川県横浜市神奈川区広台太田町３番地８<br/>開庁時間：月曜から金曜午前８時４５分から午後５時まで祝日休日12月29日から1月3日を除く"
 		},
-		{ "title" : "水道局",
+		{ "title" : "横浜市水道局",
 			"image_file" : "Suidou",
-			"abstract" : "水道局（説明[短]）",
+			"abstract" : "水道に関する手続きはこちらへ",
 			"score" : 4.0,
 			"image_file1" : "Suidou",
 			"image_file2" :	"",
 			"lat" :	"35.3732035",
 			"lng" : "139.4184921",
-			"detail" : "説明(テスト用)<br />説明(テスト用)<br />説明(テスト用)"
+			"detail" : "電話番号：045-847-6262<br/>住所：231-0005神奈川県横浜市中区本町6丁目50番地の10<br/>リンクhttps://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/suido-gesui/suido/<br/>上記のリンクから水道の手続きの詳しい説明があります。"
 		},
-		{ "title" : "郵便局",
+		{ "title" : "横浜中央郵便局",
 			"image_file" : "Yuubin",
-			"abstract" : "郵便局（説明[短]）",
+			"abstract" : "郵便サービスについて",
 			"score" : 4.0,
 			"image_file1" : "Yuubin",
 			"image_file2" :	"",
 			"lat" :	"35.3732035",
 			"lng" : "139.4184921",
-			"detail" : "説明(テスト用)<br />説明(テスト用)<br />説明(テスト用)"
+			"detail" : "電話番号：0570943212<br/>住所：220-8799神奈川県横浜市西区高島２－１４－２<br/>リンクhttps://map.japanpost.jp/smt/search/inf/300102004000/"
 		},
 		{ "title" : "リスト",
 			"image_file" : "List",
-			"abstract" : "リスト（説明[短]）",
+			"abstract" : "新生活を送るのに必要なもののリスト",
 			"score" : 4.0,
 			"image_file1" : "List",
 			"image_file2" :	"",
 			"lat" :	"35.3732035",
 			"lng" : "139.4184921",
-			"detail" : "説明(テスト用)<br />説明(テスト用)<br />説明(テスト用)"
+			"detail" : ""
 		}
 	]
 }
