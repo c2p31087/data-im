@@ -31,7 +31,7 @@
 			"image_file2" :	"",
 			"lat" :	"35.3732035",
 			"lng" : "139.4184921",
-			"detail" : "",
+			"detail" : "<a href=\"http://www.xxxxx.go.jp\">テスト</a>",
                             "bone" : "",
                             "btwo" : "",
                             "bthree" : "",
