@@ -31,12 +31,13 @@
 			"image_file2" :	"",
 			"lat" :	"35.3732035",
 			"lng" : "139.4184921",
-			"detail" : "<a href=\"http://www.xxxxx.go.jp\">テスト</a>",
+			"detail" : "",
                         "bone" : "",
                         "btwo" : "",
                         "bthree" : "",
                         "bfour" : "",
-                        "bfive" : "横浜市で新生活送るあなたを応援"
+                        "bfive" : "横浜市で新生活送るあなたを応援",
+			"link" : "<a href=\"http://www.xxxxx.go.jp\">テスト</a>"
 		},
 		{ "title" : "神奈川区役所",
 			"id" : 3,
@@ -52,7 +53,8 @@
                         "btwo" : "",
                         "bthree" : "",
                         "bfour" : "",
-                        "bfive" : ""
+                        "bfive" : "",
+			"link" : ""
 		},
 		{ "title" : "横浜市水道局",
 			"id" : 4,
@@ -68,7 +70,8 @@
                         "btwo" : "",
                         "bthree" : "",
                         "bfour" : "",
-                        "bfive" : ""
+                        "bfive" : "",
+			"link" : "<a href=\"https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/suido-gesui/suido/\">テスト</a>"
 		},
 		{ "title" : "横浜中央郵便局",
 			"id" : 5,
@@ -84,7 +87,8 @@
                         "btwo" : "",
                         "bthree" : "",
                         "bfour" : "",
-                        "bfive" : ""
+                        "bfive" : "",
+			"link" : "<a href=\"http://www.xxxxx.go.jp\">テスト</a>"
 		},
 		{ "title" : "新生活始める時にやること持ち物リスト",
 			"id" : 6,
@@ -100,7 +104,8 @@
                         "btwo" : "",
                         "bthree" : "",
                         "bfour" : "",
-                        "bfive" : ""
+                        "bfive" : "",
+			"link" : ""
 		}
 	]
 }
