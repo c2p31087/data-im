@@ -69,7 +69,7 @@
                         "bone" : "上記のリンクから水道の手続きの詳しい説明があります。<br/>新居での水道の使用開始手続きは、引越し日の3～4日前を目安に、水道局に連絡して行います。 手続きの方法は、主にインターネット・電話・郵送のいずれかでできます。 郵送に必要な水道使用開始申込書は、新居の郵便ポストや玄関に置かれていることが多いです。",
                         "btwo" : "",
                         "bthree" : "",
-                        "bfour" : "<a class="darkmode-ignore" href=\"https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/suido-gesui/suido/\">テスト</a>",
+                        "bfour" : "<a href=\"https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/suido-gesui/suido/\">詳しくはこちらをご覧ください</a>",
                         "bfive" : "",
 			"link" : ""
 		},
@@ -86,9 +86,9 @@
                         "bone" : "引越しの際には、郵便局にも住所を変更した旨を伝える必要があります。そのときに必要なのが転居届です。これを提出しておくと、無料で「転居・転送サービス」を受けることができます。古い住所宛ての手紙や荷物などの郵便物を、現在住んでいる新しい住所に転送してくれるサービスなので、必ず行いましょう。<br/>転居転送サービスを利用するには、まずインターネットか郵便窓口で手続きが必要です。<br/>提出者の本人確認書類（運転免許証や保険証など）<br/>転居前の住所が記載されていて確認できるもの（運転免許証やパスポート、住民票など、政府などが発行した書類の2点が必要になります。<br/>インターネットで手続きを行う際にはこちらの日本郵便のホームページから申し込みできます。",
                         "btwo" : "",
                         "bthree" : "",
-                        "bfour" : "<a class="darkmode-ignore" href=\"https://map.japanpost.jp/smt/search/inf/300102004000/\">詳しくはこちらをご覧ください。</a>",
+                        "bfour" : "<a href=\"https://map.japanpost.jp/smt/search/inf/300102004000/\">詳しくはこちらをご覧ください。</a>",
                         "bfive" : "",
-			"link" : "<a class="darkmode-ignore" href=\"https://welcometown.post.japanpost.jp/etn/\">インターネットで手続きを行う場合</a>"
+			"link" : "<a href=\"https://welcometown.post.japanpost.jp/etn/\">インターネットで手続きを行う場合</a>"
 		},
 		{ "title" : "新生活始める時にやること持ち物リスト",
 			"id" : 6,
