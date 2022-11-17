@@ -69,7 +69,7 @@
                         "bone" : "上記のリンクから水道の手続きの詳しい説明があります。<br/>新居での水道の使用開始手続きは、引越し日の3～4日前を目安に、水道局に連絡して行います。 手続きの方法は、主にインターネット・電話・郵送のいずれかでできます。 郵送に必要な水道使用開始申込書は、新居の郵便ポストや玄関に置かれていることが多いです。",
                         "btwo" : "",
                         "bthree" : "",
-                        "bfour" : "",
+                        "bfour" : "<a href=\"https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/suido-gesui/suido/\">テスト</a>",
                         "bfive" : "",
 			"link" : "<a href=\"https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/suido-gesui/suido/\">テスト</a>"
 		},
