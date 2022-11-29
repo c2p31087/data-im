@@ -15,7 +15,10 @@
                         "bthree" : "",
                         "bfour" : "",
                         "bfive" : "",
-			"link" : ""
+                        "bsix" : "",
+                        "bsev" : "",
+			"link" : "",
+			"dtime" : "2022/11/29"
 		},
 		{ "title" : "横浜市水道局",
 			"id" : 1,
@@ -32,7 +35,10 @@
                         "bthree" : "",
                         "bfour" : "",
                         "bfive" : "",
-			"link" : "<a href=\"https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/suido-gesui/suido/\">テスト</a>"
+                        "bsix" : "",
+                        "bsev" : "",
+			"link" : "<a href=\"https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/suido-gesui/suido/\">詳しくはこちらをご覧ください。</a>",
+			"dtime" : "2022/11/29"
 		},
 		{ "title" : "横浜中央郵便局",
 			"id" : 2,
@@ -49,7 +55,10 @@
                         "bthree" : "",
                         "bfour" : "",
                         "bfive" : "",
-			"link" : ""
+                        "bsix" : "",
+                        "bsev" : "",
+			"link" : "<a href=\"https://map.japanpost.jp/smt/search/inf/300102004000/\">詳しくはこちらをご覧ください。</a><br/><a href=\"https://welcometown.post.japanpost.jp/etn/\">インターネットで手続きを行う場合</a>",
+			"dtime" : "2022/11/29"
 		},
 		{ "title" : "新生活始める時にやること持ち物リスト",
 			"id" : 3,
@@ -68,7 +77,8 @@
                         "bfive" : "・自動車の登録変更・車庫証明の発行<br/>",
                         "bsix" : "・バイクの登録変更<br/>・飼い犬の登録<br/>",
                         "bsev" : "・パスポートの手続き（本籍を変更した場合）<br/>",
-			"link" : ""
+			"link" : "",
+			"dtime" : "2022/11/29"
 		}
 	]
 }
