@@ -57,7 +57,7 @@
 			"bfive" : "",
 			"bsix" : "",
 			"bsev" : "",
-			"link" : "<a href=\"https://map.japanpost.jp/smt/search/inf/300102004000/\">詳しくはこちらをご覧ください。</a><br/><a href=\"https://welcometown.post.japanpost.jp/etn/\">インターネットで手続きを行う場合</a>",
+			"link" : "<a href=\"https://map.japanpost.jp/smt/search/inf/300102004000/\" class=\"btn btn-primary\">詳しくはこちらをご覧ください。</a><br/><a href=\"https://welcometown.post.japanpost.jp/etn/\" class=\"btn btn-info btn-sm\">インターネットで手続きを行う場合</a>",
 			"dtime" : "2022/11/29"
 		},
 		{ "title" : "新生活始める時にやること持ち物リスト",
