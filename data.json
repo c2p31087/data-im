@@ -62,27 +62,6 @@
 			"link" : "<a href=\"https://map.japanpost.jp/smt/search/inf/300102004000/\" class=\"btn btn-primary\">詳しくはこちらをご覧ください。</a>",
 			"linkSec" : "<a href=\"https://welcometown.post.japanpost.jp/etn/\" class=\"btn btn-info btn-sm\">インターネットで手続きを行う場合</a>",
 			"dtime" : "2022/11/29"
-		},
-		{ "title" : "新生活始める時にやること持ち物リスト",
-			"id" : 4,
-			"image_file" : "List",
-			"abstract" : "",
-			"score" : 4.0,
-			"image_file1" : "List",
-			"image_file2" :	"",
-			"lat" :	"",
-			"lng" : "",
-			"detail" : "・神奈川区役所に行く！やること 転居/転入届 マイナンバー更新 etc… 持ち物 本人確認書類印鑑 国民健康保険被保険者証<br/>",
-			"bone" : "・横浜市水道局に連絡！やること 水道利用開始の手続き 持ち物 郵送なら水道利用開始申請書<br/>",
-			"btwo" : "・横浜郵便局に行く！やること 転居届の提出 持ち物 転居届<br/>",
-			"bthree" : "・ご近所へのご挨拶と手土産（賃貸の場合は貸主にも）<br/>",
-			"bfour" : "・運転免許証の住所変更<br/>",
-			"bfive" : "・自動車の登録変更・車庫証明の発行<br/>",
-			"bsix" : "・バイクの登録変更<br/>・飼い犬の登録<br/>",
-			"bsev" : "・パスポートの手続き（本籍を変更した場合）<br/>",
-			"link" : "",
-			"linkSec" : "",
-			"dtime" : "2022/11/29"
 		}
 	]
 }
