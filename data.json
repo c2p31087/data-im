@@ -19,7 +19,7 @@
 			"bsev" : "",
 			"link" : "<a href=\"https://www.city.yokohama.lg.jp/kanagawa/\"  class=\"btn btn-primary btn-lg px-4\">詳しくはこちらをご覧ください。</a>",
 			"linkSec" : "",
-			"dtime" : "2022/11/29"
+			"dtime" : "2022/12/15"
 		},
 		{ "title" : "横浜市水道局",
 			"id" : 1,
@@ -40,7 +40,7 @@
 			"bsev" : "",
 			"link" : "<a href=\"https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/suido-gesui/suido/\"  class=\"btn btn-primary btn-lg px-4\">詳しくはこちらをご覧ください。</a>",
 			"linkSec" : "",
-			"dtime" : "2022/11/29"
+			"dtime" : "2022/12/15"
 		},
 		{ "title" : "横浜中央郵便局",
 			"id" : 2,
@@ -61,7 +61,7 @@
 			"bsev" : "",
 			"link" : "<a href=\"https://map.japanpost.jp/smt/search/inf/300102004000/\" class=\"btn btn-primary\">詳しくはこちらをご覧ください。</a>",
 			"linkSec" : "<a href=\"https://welcometown.post.japanpost.jp/etn/\" class=\"btn btn-info btn-sm\">インターネットで手続きを行う場合</a>",
-			"dtime" : "2022/11/29"
+			"dtime" : "2022/12/15"
 		}
 	]
 }
